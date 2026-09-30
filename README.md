@@ -1,0 +1,2 @@
+# premium-fore-edge-001-fore-edge-painting-fan-and-cla
+Stop guessing which clamp pressure and fan angle gave you that perfect fore-edge—your next masterpiece starts with data.  This Notion template transforms your chaotic trial-and-error into a repeatable system. Log every fan speed, clamp type, and book detail so you can replicate your best results instantly, saving hours of wasted experiments.  ## Wh
